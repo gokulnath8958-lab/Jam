@@ -1,0 +1,42 @@
+{
+  "partnerName": "Jamina",
+  "loveLetter": "Happy birthday, my love. Thank you for being part of my life and making ordinary days feel special. I hope this new year brings you all the happiness you deserve. No matter how many memories we make, I'll always treasure the little moments with you. I love you. ♡",
+  "memories": [
+    {
+      "photo": "assets/photos/memory-01.jpg",
+      "date": "The beginning",
+      "title": "The day I noticed you ♡",
+      "caption": "Write your own words here… What did you feel when you first saw me?"
+    },
+    {
+      "photo": "assets/photos/memory-02.jpg",
+      "date": "Our first conversations",
+      "title": "A little hello became a lot",
+      "caption": "Write what you remember about our first chat and how it made you smile."
+    },
+    {
+      "photo": "assets/photos/memory-03.jpg",
+      "date": "One of my favourites",
+      "title": "That beautiful day",
+      "caption": "Add the story behind this photo. The little details are my favourite part."
+    },
+    {
+      "photo": "assets/photos/memory-04.jpg",
+      "date": "Us being us",
+      "title": "Our silly moments",
+      "caption": "Write an inside joke, a funny memory, or something only we understand."
+    },
+    {
+      "photo": "assets/photos/memory-05.jpg",
+      "date": "A moment to keep",
+      "title": "Your smile, always",
+      "caption": "Tell her why this moment means so much to you."
+    },
+    {
+      "photo": "assets/photos/memory-06.jpg",
+      "date": "More to come",
+      "title": "Our story isn't finished",
+      "caption": "Here's to every new memory, every laugh, and every tomorrow together. ♡"
+    }
+  ]
+}
